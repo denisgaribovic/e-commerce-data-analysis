@@ -12,16 +12,10 @@ The primary objective of this project is to uncover critical insights and answer
 
 ![alt text](https://github.com/denisgaribovic/e-commerce-data-analysis/blob/main/Pictures/Example%201.png)
 
----
-
 ![alt text](https://github.com/denisgaribovic/e-commerce-data-analysis/blob/main/Pictures/Example%202.png)
-
----
 
 ![alt text](https://github.com/denisgaribovic/e-commerce-data-analysis/blob/main/Pictures/Example%203.png)
 
 ![alt text](https://github.com/denisgaribovic/e-commerce-data-analysis/blob/main/Pictures/Example%204.png)
-
----
 
 ![alt text](https://github.com/denisgaribovic/e-commerce-data-analysis/blob/main/Pictures/Example%205.png)
